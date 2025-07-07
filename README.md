@@ -1,16 +1,22 @@
-## Hi there 👋
+ # :globe_with_meridians:Phuwanat
+ **`(DEV/Front-end)`**
+ 
+<p>Hello there! 👋 I'm Phuwanat, currently studying Computer Science at Kasetsart University, Kamphaeng Saen Campus, and I'm absolutely passionate about coding.
 
-<!--
-**phuwanat48/phuwanat48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm on a journey of learning and developing my skills in C, Java, and Web Development, and I truly enjoy solving problems through programming. Here on GitHub, you'll find some of the smaller projects I've worked on during my studies, along with the code I've used to hone my skills.
 
-Here are some ideas to get you started:
+My goal is to become a proficient software developer in the future, and I'm always eager to learn new things. Cheers!</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🧰 Languages and Tools
+<img align="left" alt="C" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+          
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<br />
